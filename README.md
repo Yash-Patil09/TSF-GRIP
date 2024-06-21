@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Status-Complete-0d0d0d.svg)
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/1. Prediction using Supervised ML > Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
+<img height="27" src="https://img.shields.io/badge/1. Prediction using Supervised ML > Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 > Problem statement :
 - Predict the percentage of an student based on the no. of study hours. <br>
 - This is a simple linear regression task as it involves just 2 variables. <br>
